@@ -13,13 +13,6 @@
 <a href="zadanie63_wron.html" target="strony">zadanie_63</a></br>
 <a href="zadanie64_wron.html" target="strony">zadanie_64</a></br>
 <a href="zadanie65_wron.html" target="strony">zadanie_65</a></br>
-<a href="zadanie84_wron.html" target="strony">zadanie_84</a></br>
-<a href="zadanie85_wron.html" target="strony">zadanie_85</a></br>
-<a href="zadanie86_wron.html" target="strony">zadanie_86</a></br>
-<a href="zadanie87_wron.html" target="strony">zadanie_87</a></br>
-<a href="zadanie88_wron.html" target="strony">zadanie_88</a></br>
-<a href="zadanie89_wron.html" target="strony">zadanie_89</a></br>
-
 
  </td>
  <td align=center><iframe width=1000 height=800 name="strony" src="start.html" border="0"></iframe>
@@ -32,12 +25,6 @@
   <a href="txt/zad63.txt" target="strony">zad-63_kod</a></br>
   <a href="txt/zad64.txt" target="strony">zad-64_kod</a></br>
   <a href="txt/zad65.txt" target="strony">zad-65_kod</a></br>
-  <a href="txt/zad84.txt" target="strony">zad-84_kod</a></br>
-  <a href="txt/zad85.txt" target="strony">zad-85_kod</a></br>
-  <a href="txt/zad86.txt" target="strony">zad-86_kod</a></br>
-  <a href="txt/zad87.txt" target="strony">zad-87_kod</a></br>
-  <a href="txt/zad88.txt" target="strony">zad-88_kod</a></br>
-  <a href="txt/zad89.txt" target="strony">zad-89_kod</a></br>
   </td>
  </tr>
 </table>
