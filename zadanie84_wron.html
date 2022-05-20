@@ -1,0 +1,33 @@
+<head>
+<title>
+Przykład ->pokaz formularza
+</title>
+<script language="JavaScript">
+function wrona_start{
+  {
+  start_wro = new Date();
+  poczatek_wro=start_wro.getTime() }
+
+  function wrona_stop {
+  stop_wro = new Date();
+  koniec_wro=stop_wro.getTime()
+  roznica_wro=koniec_wro-poczatek_wro;
+  pokaz1.innerHTML=roznica_wro/1000+" s"; }
+
+</script>
+</head>
+<body >
+  <script language="JavaScript">
+  dzis_wro = new Date();
+document.write("<br>Aktualny czas : ",dzis_wro.getHours(),":",dzis_wro.getMinutes());
+</script>
+<form>
+  <input type="button" name="Button1" value="START stoper" onclick="wrona_start()">
+
+  <input type="button" name="Button2" value="STOP stoper" onclick="wrona_stop()"><br>
+</form>
+<table >
+  <tr id="pokaz1"></tr>
+</table>
+</body>
+</html>
